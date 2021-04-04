@@ -1,4 +1,10 @@
-# CKEDITOR 5 Simple Inline Build
+# CKEditor 5 Simple Inline Build
+
+[![npm](https://img.shields.io/npm/v/@phudak/ckeditor5-build-inline-simple)](https://www.npmjs.com/package/@phudak/ckeditor5-build-inline-simple)
+[![npm](https://img.shields.io/npm/dw/@phudak/ckeditor5-build-inline-simple)](https://www.npmjs.com/package/@phudak/ckeditor5-build-inline-simple)
+[![npm bundle size](https://img.shields.io/bundlephobia/min/@phudak/ckeditor5-build-inline-simple)](https://www.npmjs.com/package/@phudak/ckeditor5-build-inline-simple)
+[![NPM](https://img.shields.io/npm/l/@phudak/ckeditor5-build-inline-simple)](https://www.npmjs.com/package/@phudak/ckeditor5-build-inline-simple)
+
 
 Simple CKEditor5 inline simple build.
 
