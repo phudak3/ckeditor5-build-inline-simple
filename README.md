@@ -44,12 +44,12 @@ Call the editor
 ```html
 <script>
     SimpleInlineEditor.create( document.querySelector( '#editor' ) )
-		.then( editor => {
-			window.editor = editor;
+        .then( editor => {
+            window.editor = editor;
 		} )
-		.catch( error => {
-			console.error( 'There was a problem initializing the editor.', error );
-		} );
+        .catch( error => {
+            console.error( 'There was a problem initializing the editor.', error );
+        } );
 </script>
 ```
 

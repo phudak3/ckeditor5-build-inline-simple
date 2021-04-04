@@ -1,5 +1,5 @@
 {
-  "name": "@ckeditor/ckeditor5-build-inline-simple",
+  "name": "@phudak/ckeditor5-build-inline-simple",
   "version": "27.0.0",
   "description": "Simple Inline CKEditor 5 build with Emoji and Special Characters plugins.",
   "keywords": [
